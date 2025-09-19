@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/smart-mcp-bridge.git"
+    "url": "git+https://github.com/Platano78/deepseek-mcp-bridge-public.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/smart-mcp-bridge/issues"
+    "url": "https://github.com/Platano78/deepseek-mcp-bridge-public/issues"
   },
-  "homepage": "https://github.com/your-username/smart-mcp-bridge#readme",
+  "homepage": "https://github.com/Platano78/deepseek-mcp-bridge-public#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.18.0"

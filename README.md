@@ -15,8 +15,8 @@
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/smart-mcp-bridge.git
-cd smart-mcp-bridge
+git clone https://github.com/Platano78/deepseek-mcp-bridge-public.git
+cd deepseek-mcp-bridge-public
 npm install
 ```
 
